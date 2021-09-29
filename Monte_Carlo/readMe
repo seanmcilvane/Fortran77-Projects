@@ -1,0 +1,7 @@
+The program monte.f is a Fortran77 program that estimates the value of pi using the Monte Carlo method. 
+monte.f uses a multiplicative linear congruential generator to generate sets of random coordinates.
+Pi is then estimated by counting the proportion of random points that land inside a circle that is inscribed in square.
+
+montetxt.pdf is a snapshot of the output file created by monte.f
+
+montewriteup.pdf is a writeup on my methods, results, analysis, and discussion of monte.f
